@@ -1,0 +1,10 @@
+project:
+  name: recipe-discordjs
+  tags:
+    - zerops-recipe
+
+services:
+  - hostname: bot
+    type: nodejs@20
+    buildFromGit: https://github.com/zeropsio/recipe-discordjs
+    enableSubdomainAccess: true
