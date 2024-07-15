@@ -16,12 +16,12 @@ client.once("ready", () => {
     client.user?.setStatus("online")
 });
 
-client.on("guildCreate", async (guild) => {
+client.on("guildCreate", async (guild: { id: any; }) => {
   await deployCommands({ guildId: guild.id });
 });
 
 
-client.on("interactionCreate", async (interaction) => {
+client.on("interactionCreate", async (interaction: { isCommand?: any; commandName?: any; }) => {
   if (!interaction.isCommand()) {
     return;
   }
