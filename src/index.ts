@@ -11,9 +11,9 @@ client.once("ready", () => {
   console.log("Discord bot is ready! 🤖");
 
   client.user?.setActivity({
-    name: " with Nermal 🤩"
+    name: " on zerops.io"
   })
-    client.user?.setStatus("dnd")
+    client.user?.setStatus("online")
 });
 
 client.on("guildCreate", async (guild) => {
