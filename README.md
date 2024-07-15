@@ -10,11 +10,11 @@ Discord.js is a powerful Node.js module that allows you to interact with the Dis
 
 You can either click the deploy button to deploy directly on Zerops, or manually copy the [import yaml](https://github.com/zeropsio/recipe-discordjs/blob/main/zerops-project-import.yml) to the import dialog in the Zerops app.
 
-<br/>
-
 > [!WARNING]
 > You'll encounter some runtime errors if `DISCORD_CLIENT_ID` and `DISCORD_TOKEN` are not set in the environment variables.
 
+<br/>
+<br/>
 
 [![Deploy on Zerops](https://github.com/zeropsio/recipe-shared-assets/blob/main/deploy-button/green/deploy-button.svg)](https://app.zerops.io/recipe/discordjs)
 
