@@ -51,7 +51,7 @@ This recipe is ready for production as is, and will scale horizontally by adding
 <br/>
 
 ## Changes made over the default installation
-If you want to modify your existing Discord.js bot to efficiently run on Zerops, there are no changes needed in the codebase on top of the standard installation, just add [zerops.yml](https://github.com/zeropsio/recipe-remix-nodejs/blob/main/zerops.yml) to your repository.
+If you want to modify your existing Discord.js bot to efficiently run on Zerops, there are no changes needed in the codebase on top of the standard installation, just add [zerops.yml](https://github.com/zeropsio/recipe-discordjs-nodejs/blob/main/zerops.yml) to your repository.
 
 <br/>
 <br/>
