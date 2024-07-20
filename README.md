@@ -1,4 +1,4 @@
-# Zerops x Discord.js
+# Zerops x Discord.js - Node.js
 
 Discord.js is a powerful module that allows you to interact with the Discord API very easily.  This is the most bare-bones example of [Discord.js](https://zerops.io) bot running on Zerops with a single ping command on Node.js runtime.
 
