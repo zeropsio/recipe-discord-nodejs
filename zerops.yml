@@ -1,5 +1,5 @@
 zerops:
-  - setup: bot
+  - setup: discordnode
     build:
       base: nodejs@20
       buildCommands:

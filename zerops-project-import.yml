@@ -4,6 +4,6 @@ project:
     - zerops-recipe
 
 services:
-  - hostname: bot
+  - hostname: discordnode
     type: nodejs@20
     buildFromGit: https://github.com/zeropsio/recipe-discordjs
