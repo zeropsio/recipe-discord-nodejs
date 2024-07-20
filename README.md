@@ -1,6 +1,6 @@
 # Zerops x Discord.js
 
-Discord.js is a powerful Node.js module that allows you to interact with the Discord API very easily.  This is the most bare-bones example of [Discord.js](https://zerops.io) bot running on Zerops with a single ping command.
+Discord.js is a powerful module that allows you to interact with the Discord API very easily.  This is the most bare-bones example of [Discord.js](https://zerops.io) bot running on Zerops with a single ping command on Node.js runtime.
 
 ![discordjs](https://github.com/zeropsio/recipe-shared-assets/blob/main/covers/svg/cover-discordjs.svg)
 
@@ -8,7 +8,7 @@ Discord.js is a powerful Node.js module that allows you to interact with the Dis
 
 ## Deploy to Zerops
 
-You can either click the deploy button to deploy directly on Zerops, or manually copy the [import yaml](https://github.com/zeropsio/recipe-discordjs/blob/main/zerops-project-import.yml) to the import dialog in the Zerops app.
+You can either click the deploy button to deploy directly on Zerops, or manually copy the [import yaml](https://github.com/zeropsio/recipe-discordjs-nodejs/blob/main/zerops-project-import.yml) to the import dialog in the Zerops app.
 
 <br/>
 
@@ -22,7 +22,7 @@ You can either click the deploy button to deploy directly on Zerops, or manually
 <br/>
 
 ## Recipe features
-A Node.js version of latest Discord.js running on a load balanced **Zerops Node.js** service.
+Latest version of Discord.js running on a load balanced **Zerops Node.js** service.
 
 <br/>
 
