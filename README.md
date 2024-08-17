@@ -26,7 +26,7 @@ Latest version of Discord.js running on a load balanced **Zerops Node.js** servi
 
 <br/>
 
-[Click here](https://app.zerops.io/recipe/discord-bots) to test Discord bot on every available runtime examples.
+[Click here](https://app.zerops.io/recipe/discord-nodejs) to test Discord bot on every available runtime examples.
 
 ## Setting up Environment Variables
 
