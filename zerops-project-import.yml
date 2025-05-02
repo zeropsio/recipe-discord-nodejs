@@ -7,3 +7,6 @@ services:
   - hostname: discordnode
     type: nodejs@20
     buildFromGit: https://github.com/zeropsio/recipe-discordjs
+    envSecrets:
+      DISCORD_CLIENT_ID: # You can find your client id at https://discord.com/developers/applications
+      DISCORD_TOKEN: # You can find your discord token at https://discord.com/developers/applications
